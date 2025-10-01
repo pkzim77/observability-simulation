@@ -72,8 +72,7 @@ Todos os arquivos estão na pasta ```src```
 ### Grafana
 localhost:3000 
 
-#### Credenciais Grafana
-____________________________
+#### Credenciais Grafana:
 
 login: admin
 

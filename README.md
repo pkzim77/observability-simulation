@@ -24,7 +24,7 @@ Este projeto é uma implementação completa de observabilidade usando a stack O
 ## 💡 Como baixar o projeto❓
 Clone o repositório:
 ```
-git clone 
+git clone https://github.com/pkzim77/observability-simulation
 ```
 Entre na pasta do projeto:
 ```

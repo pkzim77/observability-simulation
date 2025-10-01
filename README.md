@@ -50,6 +50,19 @@ Execute o comando para ativar o ambiente virtual (windows) no Power shell:
 pip install -r requirements.txt
 ```
 
+## 💡 Como executar o servidor da aplicação❓
+
+O projeto utiliza **FastAPI** com **Uvicorn** para simular a aplicação observada.
+
+Execute o comando dentro da pasta `src` (com o ambiente virtual ativado):
+
+```powershell
+uvicorn ops_application:app
+```
+### Depois de subir, acesse no navegador a documentação interativa (Swagger):
+```
+http://localhost:8000/docs
+```
 ## 💡 Como executar o script para testar a comunicação com o coletor do OpenTelemetry❓
 
 Todos os arquivos estão na pasta ```src```

@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 O projeto utiliza **FastAPI** com **Uvicorn** para simular a aplicação observada.
 
-Execute o comando dentro da pasta `src` (com o ambiente virtual ativado):
+Execute o comando dentro da pasta `manual` (que está dentro da pasta src e com o ambiente virtual ativado):
 
 ```powershell
 uvicorn ops_application:app
